@@ -1,5 +1,10 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body {
+    background: #e1eb78;
+    background: linear-gradient(0deg, rgba(225, 235, 120, 1) 0%, rgba(253, 187, 45, 1) 100%);
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
 }
